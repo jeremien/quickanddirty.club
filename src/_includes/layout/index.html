@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block page %}
+
+<main class="container">
+
+    <ol>
+
+    {% for projet in collections.type %}
+
+        <li><a href="{{ projet.url }}">{{ projet.data.title }}</a></li>
+
+    {% endfor %}
+
+    </ol>
+
+</main>
+
+{% endblock page %}
