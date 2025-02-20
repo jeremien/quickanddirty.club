@@ -1,5 +1,5 @@
 dist
-deploy.yaml
+deploy.yml
 
 # Generated files
 package/generated*

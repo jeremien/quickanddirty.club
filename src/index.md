@@ -3,4 +3,4 @@ title: Home
 layout: layout/index
 ---
 
-{% image "images/home.jpg", "home" %}
+<a href="/informations">{% image "images/home.jpg", "home" %}</a>
