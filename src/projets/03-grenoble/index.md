@@ -12,3 +12,10 @@ Résidence d’une semaine entre le Train Fantôme (mis à disposition par la co
 [energieswierd.quickanddirty.club](https://energieswierd.quickanddirty.club/)
 
 {% image "IMG_20240516_191932_140.jpg", "le train fantôme" %}
+{% image "IMG_20240515_165314_322.jpg", "le train fantôme" %}
+{% image "IMG_20240515_165340_073.jpg", "le train fantôme" %}
+{% image "IMG_20240515_165331_410.jpg", "le train fantôme" %}
+{% image "IMG_20240516_191939_343.jpg", "le train fantôme" %}
+{% image "IMG_20240516_191947_562.jpg", "le train fantôme" %}
+
+<a href="https://energieswierd.quickanddirty.club/">{% image "catalogue.png", "le train fantôme" %}</a>
