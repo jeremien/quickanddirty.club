@@ -1,3 +1,4 @@
+const { DateTime } = require("luxon");
 const markdownIt = require("markdown-it");
 const Image = require("@11ty/eleventy-img");
 
@@ -39,8 +40,6 @@ function imageShortcode(src, alt, sizes="(min-width: 1024px) 100vw, 50vw") {
 
 module.exports = (config) => {
 
-    
-
     let options = {
 		html: true,
 		breaks: true,
@@ -51,7 +50,12 @@ module.exports = (config) => {
 
     config.setLibrary("md", markdownLib),
 
+    config.addFilter("showDecade", (date) => {
+        return date.getFullYear();
+    });
+
     config.addPassthroughCopy("./src/assets/css/");
+    config.addPassthroughCopy("./src/assets/fonts/");
 
     config.addFilter("debugger", (...args) => {
         console.log(...args)

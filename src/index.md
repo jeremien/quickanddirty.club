@@ -3,6 +3,4 @@ title: Home
 layout: layout/index
 ---
 
-# hello
-
-hello
+{% image "images/home.jpg", "home" %}

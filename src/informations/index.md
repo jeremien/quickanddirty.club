@@ -1,0 +1,10 @@
+---
+title: Informations
+layout: layout/page
+---
+
+Quick and Dirty est un collectif à géométrie relativement variable et plutôt nomade. Depuis trois ans ce projet réunit régulièrement : Thibault le Page (artiste-chercheur, doctorant à la Head Genève/ Université de Genève), Jérémie Nuel (designer graphique et enseignant à l'ESAD de Saint-Étienne), Jacopo Rasmi (enseignant-chercheur à l’Université Jean Monnet de Saint Etienne) et Kévin Zanin (artiste-chercheur, doctorant Radian Université Caen/Normandie). 
+
+Le point de rencontre a été, au départ, de la création d'une base de données de récits numériques porteurs d’une conception « déviante » de la réalité. Cette collecte de documents (discursifs et audio-visuels) issus de l’internet vernaculaire s’est rapidement orientée vers l’activation ces materiaux à travers des processus d'écriture et mise en forme documentaires. Parmi les nombreuses trajectoires possibles, le travail s’est concentré sur les narrations et pratiques non-conventionnelles du domaine de l’énergie : d'où elle vient ? Qui la produit ? Comment la capter, ou la transmettre, ou encore la vendre, par quelles machines ? Est-elle gratuite et ubiquitaire ? Quel est son avenir ?
+
+Les protocoles de travail (écriture radiophonique, compilation éditoriale, exposition…) constituent des laboratoires de réflexion où les imaginaires et les discours mobilisés peuvent sortir de leurs niches numériques closes et en même temps du regard méprisant et hâtif de certaines perspectives médiatiques ou élitistes. *Quick and Dirty* souhaite tester des méthodes plurielles pour approcher ces milieux « aberrants » (littéralement qui *errent* en dehors du périmètres hégémoniques et/ou légitimes) et récalcitrants (pour le dire avec Isabelle Stengers). Il s’agit, entre autres, d’arriver à prêter attention aux « noyaux de vérité » socio-politiques (Wu Ming 1) qui alimentent en creux des récits. 

@@ -4,15 +4,9 @@
 
 <main class="container">
 
-    <ol>
+  {% include "../partials/header.html" %}
 
-    {% for projet in collections.type %}
-
-        <li><a href="{{ projet.url }}">{{ projet.data.title }}</a></li>
-
-    {% endfor %}
-
-    </ol>
+  {{ content | safe }}
 
 </main>
 

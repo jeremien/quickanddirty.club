@@ -2,17 +2,11 @@
 title: Methodroom
 layout: layout/page
 type: projet
+date: 2023-06-01
 ---
 
-# Methodroom
+# Method room (Saint-Étienne) – Connexions au subtil
 
-Le collectif Quick & Dirty est composé de différent·es passionné·es de folklore numérique et se réunit depuis deux ans autour de la création d'une base de données constituée de récits liés à une conception « déviante » de la vérité circulant sur les réseaux sociaux. Les citations collectées ont pour point commun d'être fréquemment taxées par les médias mainstream et le pouvoir de « complotistes ». Derrière cet adjectif attrape-tout, on retrouve tout aussi bien des tutoriels de lithothérapie (soin par les pierres) que des récits relatant des séances d'hypnose régressive énergétique ou encore des démonstrations visant à prouver que la Terre serait creuse. Au-delà d'une analyse zététicienne visant à invalider ces récits en les passant à la moulinette du régime de la vérité, le collectif Quick & Dirty en propose une lecture alternative en les reconnaissant d'abord comme des discours imaginatifs et flottants.
+Résidence d’une semaine à la Method Room sur invitation d’Olivier Peyricot et Association Drop qui a mené *Quick and Dirty* à écrire un script radiophonique - pour trois voix humaines et une de synthèse - autour des questions énergétiques précédemment répertoriée dans une base de données en ligne. Le travail d’écriture s’est inspirée des pratiques d’*uncreative writing *(defendues par des poètes comme Kenneth Goldsmith ou frank leibovici). Les documents textuels (issus de blogs, vidéos transcrites, commentaires…) ont été assemblés afin de produire trois personnages en dialogue entre elleux autour du questionnement du concept d’énergie et ses applications. La sortie festive de résidence (8 juin 2023) a mis en scène et enregistré cette pièce radiophonique dans une performance sonore permise par l’interprétation de Matthieu Montanier, Claude Jaime, Helène Iratchet. La sonorisation live de la pièce a été proposée Dan Dahran.
 
-À la Method Room, Quick & Dirty a proposé une lecture radiophonique d'une partie des citations collectées sous le thème des énergies. 
-
-Le collectif remercie les comédien·ne·s qui ont prêté leurs voix et Dan pour son accompagnement sonore.  
-
-{% image "Quick-and-Dirty.jpg", "image" %}
-
-{% image "DSC_5262_copy.jpg", "image" %}
-
+{% image "DSC_5289_copy.jpg", "methodroom" %}

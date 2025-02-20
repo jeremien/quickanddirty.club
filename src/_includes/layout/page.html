@@ -4,7 +4,14 @@
 
 <main class="container">
 
-    {{ content | safe }}
+    {% include "../partials/header.html" %}
+    
+    <section class="content">
+        
+        <h2>{{ page.date | showDecade }}</h2>
+        
+        {{ content | safe }}
+    </section>
 
 </main>
 

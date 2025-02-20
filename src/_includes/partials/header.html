@@ -1,0 +1,15 @@
+<header class="header">
+    <span><a href="/">Quick and Dirty</a></span>
+    <nav class="navigation">
+        <ol>
+            <li><a href="/informations">Informations</a></li>
+
+        {% for projet in collections.type %}
+
+            <li><a href="{{ projet.url }}">{{ projet.data.title }}</a></li>
+
+        {% endfor %}
+
+        </ol>
+    </nav>
+</header>
